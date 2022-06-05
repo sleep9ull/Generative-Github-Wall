@@ -1,4 +1,4 @@
-# generative_github_wall
+# Generative-Github-Wall
 a github contribution wall generator
 (processing + python)
 
