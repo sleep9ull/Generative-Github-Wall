@@ -22,9 +22,7 @@ def setup():
         for j in range(cols_of_blocks):
             pc = get_random_element(colors)
             fill(*pc)
-            # noStroke()
             rect(rect_start_x, rect_start_y, side_length, side_length, side_length/5)
-            
             rect_start_x += side_length + segment
             
         rect_start_x = side_length / 2
