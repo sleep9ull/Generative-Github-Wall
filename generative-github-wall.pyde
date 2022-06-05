@@ -27,3 +27,5 @@ def setup():
             
         rect_start_x = side_length / 2
         rect_start_y += side_length + segment
+    
+    save("Examples/github-contribution-wall.png")
