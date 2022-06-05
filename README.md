@@ -1,7 +1,6 @@
-# github_contribution_wall
+# generative_github_wall
 a github contribution wall generator
 (processing + python)
-
 
 Examples:
 - 40p
