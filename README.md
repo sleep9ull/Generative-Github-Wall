@@ -2,8 +2,10 @@
 a github contribution wall generator
 (processing + python)
 
-## 1. Fixed Size
 Examples:
+
+## 1. Fixed Size
+
 - 40p
 ![Github_Contribution_Wall_40p](https://user-images.githubusercontent.com/106049890/172056567-f161f171-7ab8-4d30-802d-ac9b45fbd438.png)
 
